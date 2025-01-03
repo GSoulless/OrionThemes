@@ -29,7 +29,7 @@ local OrionLib = {
 local Sources = {}
 
 local Success, Response = pcall(function()
-	Sources = HttpService:JSONDecode(game:HttpGetAsync("https://raw.githubusercontent.com/GSoulless/OrionThemes/refs/heads/main/Sources/Icons.json")).icons
+	Sources = HttpService:JSONDecode(game:HttpGetAsync("https://raw.githubusercontent.com/GSoulless/OrionThemes/refs/heads/main/Sources/Icons.json")).Icons
 end)
 
 if not Success then
