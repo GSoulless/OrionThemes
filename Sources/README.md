@@ -1,7 +1,5 @@
-echo "# OrionThemes" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/GSoulless/OrionThemes.git
-git push -u origin main
+## Please Read the Following instructions Before Using my Themes
+```lua
+Hi, The Themes aren't By Sirius, I have Copyright issues, So please Support me,
+Bye!
+```
